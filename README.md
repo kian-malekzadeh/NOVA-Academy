@@ -22,12 +22,11 @@
 
 ## 🌐 پیش‌نمایش زنده
 
-[**مشاهدهٔ کامل وب‌سایت در مرورگر**](https://htmlpreview.github.io/?https://raw.githubusercontent.com/kian-malekzadeh/NOVA-Academy/main/index.html)
+[**مشاهدهٔ کامل وب‌سایت در مرورگر**](https://kian-malekzadeh.github.io/NOVA-Academy/)
 
-با کلیک روی لینک بالا، خروجی کامل صفحه (فارسی RTL) بدون نیاز به نصب یا اجرای محلی، مستقیم در مرورگر نمایش داده می‌شود.
+سایت به‌صورت دائمی روی **GitHub Pages** منتشر شده است — با کلیک روی لینک بالا، خروجی کامل صفحه (فارسی RTL) مستقیم در مرورگر نمایش داده می‌شود.
 
-> 💡 پس از فعال‌سازی **GitHub Pages** (Settings → Pages → Deploy from a branch → `main` → `/ (root)`) آدرس دائمی زیر در دسترس خواهد بود:
-> <https://kian-malekzadeh.github.io/NOVA-Academy/>
+> لینک جایگزین (پیش‌نمایش فایل خام): [htmlpreview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/kian-malekzadeh/NOVA-Academy/main/index.html)
 
 ---
 
@@ -75,7 +74,7 @@ python3 -m http.server 8000
 ```
 
 **گزینهٔ ۳ — انتشار با GitHub Pages:**
-در تنظیمات ریپازیتوری: **Settings → Pages → Deploy from a branch → `main` → `/ (root)`** و ذخیره کنید؛ سپس سایت در آدرس زیر در دسترس خواهد بود:
+سایت از طریق **GitHub Pages** منتشر شده است و به‌صورت دائمی در آدرس زیر در دسترس است:
 `https://kian-malekzadeh.github.io/NOVA-Academy/`
 
 > فونت‌های «وزیرمتن» (Vazirmatn) و «بالو ۲» (Baloo 2) از Google Fonts بارگذاری می‌شوند؛ برای نمایش کامل، اتصال اینترنت لازم است.
