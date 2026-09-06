@@ -122,4 +122,4 @@ python3 -m http.server 8000
 
 ## ⚖️ مجوز
 
-© ۱۴۰۵ **Kian Malekzadeh — نُوا آکادمی** — تمامی حقوق محفوظ است.
+© ۱۴۰۵ **Kian Malekzadeh — Kia Academy** — تمامی حقوق محفوظ است.
