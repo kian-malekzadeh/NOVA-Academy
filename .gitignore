@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local agent tooling (not part of the site)
+.agents/
+.claude/
+.freebuff/
+design-system/
+skills-lock.json
